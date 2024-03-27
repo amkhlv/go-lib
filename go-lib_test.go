@@ -3,7 +3,7 @@
  * File: go-lib_test.go
  */
 
-package lib
+package amkhlv
 
 import (
 	"regexp"
